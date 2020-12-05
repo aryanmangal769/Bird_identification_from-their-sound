@@ -1,0 +1,2 @@
+# BIRD-AUDIO-DETECTION-
+Detection of bird species from audio signals using concept of correlation.
