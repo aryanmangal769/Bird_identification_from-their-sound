@@ -1,3 +1,2 @@
 # BIRD-AUDIO-DETECTION-
-Detection of bird species from audio signals using concept of correlation.
-For deeper explainations, refer project report.
+Made a bird sound detection code for a project to be presented in SNS class
